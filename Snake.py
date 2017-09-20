@@ -231,7 +231,7 @@ while True:
 			number = basicFont.render(str(i+1),True, RED) 
 			windowSurface.blit(number, segment)
 		
-		print (pDir)
+		print (Fuck you hector)
 		#draw the window onto the screen
 		pygame.display.update()
 		mainClock.tick(10)
